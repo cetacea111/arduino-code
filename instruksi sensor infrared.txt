@@ -1,0 +1,5 @@
+1. Rangkai sensor pada Arduino sesuai dengan skematik.
+2. jika pin digital yang digunakan bukan pin 8, maka ubah angka 8 pada baris pertama code.
+3. buka menu "tools" di pojok kanan atas.
+4. pilih opsi "serial monitor".
+5. pastikan baud = 9600
